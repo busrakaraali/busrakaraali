@@ -12,7 +12,7 @@ Background in digital banking — five years working across data, reporting, and
 |---|---|
 | **Languages** | SQL · Python · R · DAX |
 | **BI & Reporting** | Power BI · Elasticsearch · Kibana |
-| **Data Engineering** | dbt · BigQuery · PostgreSQL · Oracle |
+| **Tools** | dbt · BigQuery · PostgreSQL · Oracle |
 | **Statistical Methods** | Regression · LCA · SEM · Causal Inference |
 | **Collaboration** | Jira · Confluence · Agile/Scrum |
 
