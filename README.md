@@ -25,7 +25,6 @@ A mix of academic and personal projects — statistical analyses, data pipelines
 | Project | Description | Tools |
 |---|---|---|
 | 🔍 [Teleworking Patterns & Health](https://github.com/busrakaraali) | Identifying teleworking typologies using Latent Class Analysis on large-scale survey data | R · LCA |
-| 📈 [Stock Return Clustering](https://github.com/busrakaraali) | Time-series clustering of 50+ U.S. stocks to identify co-moving groups and market structure | Python · scikit-learn |
 | ⚙️ [dbt + BigQuery Pipeline](https://github.com/busrakaraali) | Analytics engineering project with staging models and SQL transformations on mobile app data | dbt · BigQuery · SQL |
 
 *(Links will be updated as repos go live)*
