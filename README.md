@@ -24,8 +24,11 @@ A mix of academic and personal projects — statistical analyses, data pipelines
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔍 [Teleworking Patterns & Health](https://github.com/busrakaraali) | Identifying teleworking typologies using Latent Class Analysis on large-scale survey data | R · LCA |
-| ⚙️ [dbt + BigQuery Pipeline](https://github.com/busrakaraali) | Analytics engineering project with staging models and SQL transformations on mobile app data | dbt · BigQuery · SQL |
+| 🔍 [Teleworking Patterns & Health](https://github.com/busrakaraali/teleworking-patterns-lca) | Identifying teleworking typologies using Latent Class Analysis on large-scale survey data | R · poLCA |
+| 📈 [Time-Series Stock Clustering](https://github.com/busrakaraali) | Clustering 50+ U.S. stocks to identify co-moving groups and market structure | Python · scikit-learn |
+| 📊 [Data Analytics Dashboards](https://github.com/busrakaraali/data-analytics-dahboards) | Interactive dashboards on payment transactions and mobile app performance | PowerBI · DAX · Tableau |
+| ⚙️ [E-commerce Product Analytics Pipeline](https://github.com/busrakaraali/bigquery-ecommerce-dbt-product-analytics) | End-to-end dbt pipeline on BigQuery covering funnel, customer segments, and channel performance | dbt · BigQuery · SQL |
+| 🔧 [Assembly Line Balancing](https://github.com/busrakaraali/nonlinear-optimization-python) | Non-linear programming model to optimally assign tasks to workstations | Python · PuLP |
 
 *(Links will be updated as repos go live)*
 
